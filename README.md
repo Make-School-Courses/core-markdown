@@ -74,7 +74,7 @@ You can even make tables
 | banana| 1.29  |  1  | 1.29 |
 | total |       |  3  | 3.27 |
 
-<blink>HTML renders as HTML!</blink>
+<div>HTML renders as HTML!</div>
 
 ```
 
