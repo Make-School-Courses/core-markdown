@@ -74,7 +74,7 @@ You can even make tables
 | banana| 1.29  |  1  | 1.29 |
 | total |       |  3  | 3.27 |
 
-<div style="color: red; font-size:36px">HTML renders as HTML (most of the time)</div>
+<div>HTML renders as HTML (<a href="https://github.com/github/markup">most of the time</a>)</div>
 
 ```
 
@@ -123,7 +123,7 @@ You can even make tables
 | banana| 1.29  |  1  | 1.29 |
 | total |       |  3  | 3.27 |
 
-<div style="color: red; font-size:36px">HTML renders as HTML (most of the time)</div>
+<div>HTML renders as HTML (<a href="https://github.com/github/markup">most of the time</a>)</div>
 --- 
 
 ## Why use Markdown?
