@@ -74,7 +74,18 @@ You can even make tables
 | banana| 1.29  |  1  | 1.29 |
 | total |       |  3  | 3.27 |
 
-<div>HTML renders as HTML!</div>
+<style>.blinking{
+    animation:blinkingText 0.8s infinite;
+}
+@keyframes blinkingText{
+    0%{     color: #000;    }
+    49%{    color: transparent; }
+    50%{    color: transparent; }
+    99%{    color:transparent;  }
+    100%{   color: #000;    }
+}
+</style>
+<div class="blinking">HTML renders as HTML!</div>
 
 ```
 
@@ -123,7 +134,18 @@ You can even make tables
 | banana| 1.29  |  1  | 1.29 |
 | total |       |  3  | 3.27 |
 
-<blink>HTML renders as HTML!</blink>
+<style>.blinking{
+    animation:blinkingText 0.8s infinite;
+}
+@keyframes blinkingText{
+    0%{     color: #000;    }
+    49%{    color: transparent; }
+    50%{    color: transparent; }
+    99%{    color:transparent;  }
+    100%{   color: #000;    }
+}
+</style>
+<div class="blinking">HTML renders as HTML!</div>
 
 --- 
 
