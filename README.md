@@ -74,18 +74,7 @@ You can even make tables
 | banana| 1.29  |  1  | 1.29 |
 | total |       |  3  | 3.27 |
 
-<style>.blinking{
-    animation:blinkingText 0.8s infinite;
-}
-@keyframes blinkingText{
-    0%{     color: #000;    }
-    49%{    color: transparent; }
-    50%{    color: transparent; }
-    99%{    color:transparent;  }
-    100%{   color: #000;    }
-}
-</style>
-<div class="blinking">HTML renders as HTML!</div>
+<div style="color: red; font-size:36px">HTML renders as HTML (most of the time)</div>
 
 ```
 
@@ -134,19 +123,7 @@ You can even make tables
 | banana| 1.29  |  1  | 1.29 |
 | total |       |  3  | 3.27 |
 
-<style>.blinking{
-    animation:blinkingText 0.8s infinite;
-}
-@keyframes blinkingText{
-    0%{     color: #000;    }
-    49%{    color: transparent; }
-    50%{    color: transparent; }
-    99%{    color:transparent;  }
-    100%{   color: #000;    }
-}
-</style>
-<div class="blinking">HTML renders as HTML!</div>
-
+<div style="color: red; font-size:36px">HTML renders as HTML (most of the time)</div>
 --- 
 
 ## Why use Markdown?
