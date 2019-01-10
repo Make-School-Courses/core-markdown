@@ -4,7 +4,7 @@ Markdown is a simple mark up language that was designed to be easy to
 read and easy to write. 
 
 > A markup language is a system for annotating a document in a way that 
-> is syntactically distinguishable from the text.[1] The idea and 
+> is syntactically distinguishable from the text. The idea and 
 > terminology evolved from the "marking up" of paper manuscripts, i.e., 
 > the revision instructions by editors, traditionally written with a 
 > blue pencil on authors' manuscripts.
@@ -20,7 +20,7 @@ formats**.
 online discussion forums**, and to create rich text using a plain text editor.
 
 **John Gruber created the Markdown** language in 2004 in collaboration with 
-**Aaron Swartz** on the syntax, with the goal of enabling people 
+**Aaron Swartz** on the syntax, with the goal of enabling people: 
 
 > "to write using an easy-to-read, easy-to-write plain text format, and 
 > optionally convert it to structurally valid HTML".
@@ -74,9 +74,11 @@ You can even make tables
 | banana| 1.29  |  1  | 1.29 |
 | total |       |  3  | 3.27 |
 
+<blink>HTML renders as HTML!</blink>
+
 ```
 
-The code above renders as this in GiHub: 
+The code above renders as this in GitHub: 
 
 ---
 
